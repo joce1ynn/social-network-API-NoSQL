@@ -1,4 +1,4 @@
-#  NoSQL: Social Network API
+# NoSQL: Social Network API
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Description:
 
-This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## Technology:
 
@@ -20,32 +20,33 @@ Project is created with:
 
 - Javascript
 - Node.js
-- Inquirer.js
+- Express.js
+- MongoDB
+- Mongoose
 
 ## Installation
 
 To run this project, install it locally using npm:
+
 ```
 npm install
 ```
 
-
 ## Usage
 
-After installing npm packages, the application will be invoked by using the following command: 
+After installing npm packages, the application will be invoked by using the following command:
+
 ```
 npm start
 ```
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/7015399?key=3428a892b1ac4c806df108fb1bf83f03)
+[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
 
-#### Example Screenshot
+#### Insomnia Screenshot
 
-![Screenshot](./assets/images/ET-1.png)
-![Screenshot](./assets/images/ET-2.png)
-![Screenshot](./assets/images/ET-3.png)
+![Screenshot](./screenshot/insomnia.png)
 
 ## License
 
@@ -55,7 +56,6 @@ This project is licensed under MIT, for more information please visit [this webs
 ## Contribution
 
 Made by Wenwen Tian
-
 
 ## Questions?
 

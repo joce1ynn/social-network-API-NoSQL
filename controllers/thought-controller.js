@@ -44,7 +44,6 @@ const thoughtController = {
         );
       })
       .then((dbThoughtData) => {
-        console.log("dbThoughtData");
         res.json(dbThoughtData);
       })
       .catch((err) => res.json(err));
